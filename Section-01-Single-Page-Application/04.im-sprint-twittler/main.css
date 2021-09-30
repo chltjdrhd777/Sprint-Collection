@@ -1,0 +1,101 @@
+* {
+  box-sizing: border-box; /*박스 사이징으로 편하게*/
+  font-family: 'Verdana'; /*폰트는 버다나로 설정*/
+}
+
+#greeting {
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: black;
+  text-shadow: 0 0 2px #333;
+  text-align: center;
+  margin: 10px auto;  
+  padding: 0.5em;
+}
+
+#write {
+  display: flex;
+  flex-direction: column; /*세로 방향 정렬을 해 줌*/
+  width : 80%; /*꽉찬 크기로*/
+  margin: 10px auto;
+  padding: 10px;
+  background-color: #FCFCD4;
+  border-radius: 4px;
+}
+
+.inputname{
+margin: 10px;
+}
+
+
+textarea {
+  height: 100px;
+  width : 100%;
+}
+
+
+
+
+.username{
+  flex: 1 0 auto; /*공간을 3등분으로 나누게 끔*/
+  font-weight: bold;
+  font-size: 14px
+}
+
+.content{
+  flex: 1 0 auto; /*공간을 3등분으로 나누게 끔*/
+  font-size: 24px;
+}
+
+.createAt{
+  flex: 1 0 auto; /*공간을 3등분으로 나누게 끔*/
+  color : gray;
+  font-size: 12px;
+}
+
+ul {
+  display: flex;
+  flex-direction: column; /*세로 방향 정렬을 해 줌*/
+  margin: 10px auto;  
+  padding: 10px;
+  height: 500px;
+  width: 80%;
+  background-color: #FCFCD4;
+  border-radius: 4px;
+}
+
+.comment {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 auto; /*공간을 3등분으로 나누게 끔*/
+  margin: 3px;
+  padding: 20px;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+
+input{
+  width:120px;
+  height:30px;
+  font-size:12px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+
+
+button {
+  width: 100px;
+  height: 30px;
+  border-radius: 4px;
+  border: none;
+  font-size: medium;
+  background-color: #00C6A8;
+  color: #ffffff;
+}
+
+textarea{
+  background-color: #fafafa;
+  border-radius: 4px;
+}
