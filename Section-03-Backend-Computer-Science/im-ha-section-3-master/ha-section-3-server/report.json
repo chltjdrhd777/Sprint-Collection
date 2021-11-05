@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 1,
+    "start": "2021-11-05T08:19:36.623Z",
+    "end": "2021-11-05T08:19:40.486Z",
+    "duration": 3863
+  },
+  "tests": [
+    {
+      "title": "🧩 데이터베이스에 연결해야 합니다.",
+      "fullTitle": "Section 3 Hiring Assessments \nℹ️  데이터베이스 연결\n====================\n 🧩 데이터베이스에 연결해야 합니다.",
+      "duration": 12,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "🧩 데이터베이스에 `users` 테이블이 존재해야 합니다.",
+      "fullTitle": "Section 3 Hiring Assessments \nℹ️  데이터베이스 연결\n====================\n 🧩 데이터베이스에 `users` 테이블이 존재해야 합니다.",
+      "duration": 11,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "\"before all\" hook in \"\nℹ️  서버 구현\n============\n\"",
+      "fullTitle": "Section 3 Hiring Assessments \nℹ️  서버 구현\n============\n \"before all\" hook in \"\nℹ️  서버 구현\n============\n\"",
+      "duration": 2003,
+      "currentRetry": 0,
+      "err": {
+        "stack": "Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (/Users/nabangkim/Desktop/im-ha-section-3/ha-section-3-server/__tests__/server.test.js)\n    at listOnTimeout (node:internal/timers:557:17)\n    at processTimers (node:internal/timers:500:7)",
+        "message": "Timeout of 2000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (/Users/nabangkim/Desktop/im-ha-section-3/ha-section-3-server/__tests__/server.test.js)",
+        "code": "ERR_MOCHA_TIMEOUT",
+        "timeout": 2000,
+        "file": "/Users/nabangkim/Desktop/im-ha-section-3/ha-section-3-server/__tests__/server.test.js"
+      }
+    }
+  ],
+  "passes": [
+    {
+      "title": "🧩 데이터베이스에 연결해야 합니다.",
+      "fullTitle": "Section 3 Hiring Assessments \nℹ️  데이터베이스 연결\n====================\n 🧩 데이터베이스에 연결해야 합니다.",
+      "duration": 12,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "🧩 데이터베이스에 `users` 테이블이 존재해야 합니다.",
+      "fullTitle": "Section 3 Hiring Assessments \nℹ️  데이터베이스 연결\n====================\n 🧩 데이터베이스에 `users` 테이블이 존재해야 합니다.",
+      "duration": 11,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
