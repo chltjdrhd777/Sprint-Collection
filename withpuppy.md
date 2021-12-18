@@ -1,4 +1,6 @@
-# (로고)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F7F1ED&height=300&section=header)
+<!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&width=100&text=capsule%20render&fontSize=90">hello<img> -->
+<h1>(로고)</h1>
 
 # Overview
 ### Project
