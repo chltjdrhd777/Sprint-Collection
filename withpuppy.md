@@ -48,7 +48,10 @@
 |Backend||
 |Deploy||
 
+<br>
+
 >이번엔 그림으로 한 눈에 봅시다!
+<img src="https://user-images.githubusercontent.com/85002287/146626070-78e9f149-f1b6-44f0-926e-2e411d6f0bcb.png" width="800" height="450"/>
 
 <br><br>
 
