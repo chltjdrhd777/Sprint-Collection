@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=F7F1ED&height=300&section=header)
-<!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&width=100&text=capsule%20render&fontSize=90">hello<img> -->
-<h1>(로고)</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=F7F1ED&height=300&section=header&text=🐶%20withpuppy%20🐶)
+
 
 # Overview
 ### Project
@@ -43,6 +42,8 @@ https://github.com/codestates/withpuppy
 Front End
 
 
-
 Back-end
 스크린샷 2021-03-25 오후 3 43 02
+
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=F7F1ED&height=300&section=footer&text=Thank%20you%20for%20Reading!)
