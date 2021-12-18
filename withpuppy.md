@@ -13,11 +13,12 @@
 
 
 ### 💾 Github Repository
-https://github.com/codestates/withpuppy
+* [withpuppy github repository](https://github.com/codestates/withpuppy)
+* [withpuppy storybook branch]()
 
 
 ### 📖 Wiki
-
+* [withpuppy wiki](https://github.com/codestates/withpuppy/wiki)
 
 
 <br><br>
