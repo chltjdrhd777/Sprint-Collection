@@ -44,30 +44,26 @@
 커먼
 
 
-프론트
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
-<img alt="Redux" src ="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="Redux-Toolkit" src ="https://img.shields.io/badge/redux%20toolkit-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-<img alt="React-hooks" src ="https://img.shields.io/badge/react%20hooks-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-<img alt="React-Router" src ="https://img.shields.io/badge/react%20router-CA4245.svg?&style=for-the-badge&logo=reactrouter&logoColor=white"/>
-<img alt="Axios" src ="https://img.shields.io/badge/Axios-2C5BB4.svg?&style=for-the-badge&logo=axios&logoColor=white"/>
-<img alt="Storybook" src ="https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>
-<img alt="Kakaomap" src ="https://img.shields.io/badge/Kakao%20Map%20API-FFCE00.svg?&style=for-the-badge&logoColor=white"/>
-
 
 
 백
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
 
 
 배포
-
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
 
 
 |Part|Stacks|
 |:---|:---|
 |Common||
-|Frontend||
+|Frontend|<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/> <img alt="Redux" src ="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img alt="Redux-Toolkit" src ="https://img.shields.io/badge/redux%20toolkit-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="React-hooks" src ="https://img.shields.io/badge/react%20hooks-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="React-Router" src ="https://img.shields.io/badge/react%20router-CA4245.svg?&style=for-the-badge&logo=reactrouter&logoColor=white"/> <img alt="Axios" src ="https://img.shields.io/badge/Axios-2C5BB4.svg?&style=for-the-badge&logo=axios&logoColor=white"/> <img alt="Kakaomap" src ="https://img.shields.io/badge/Kakao%20Map%20API-FFCE00.svg?&style=for-the-badge&logoColor=white"/> <img alt="Storybook" src ="https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/> |
 |Backend||
 |Deploy||
 
