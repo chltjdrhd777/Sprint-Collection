@@ -3,8 +3,10 @@
 ### 🐕 Project : 2021.11.22 ~ 2021.12.22
 
 ### 🐩 Assignee & Stack that I used : 
-* Assignee : **김희원** 👉🏼 <a href="https://github.com/heewonkim-dev"><img alt="Github" src ="https://img.shields.io/badge/Fullstack-@heewonkimdev-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
-* Stack that I used : <img alt="Storybook" src ="https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>
+|Index|Content|
+|:---|:---|
+|**Assignee**|**김희원** 👉🏼 <a href="https://github.com/heewonkim-dev"><img alt="Github" src ="https://img.shields.io/badge/Fullstack-@heewonkimdev-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>|
+|**Stack that I used**|<img alt="Storybook" src ="https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>|
  
 
 ### 🦮 Index
