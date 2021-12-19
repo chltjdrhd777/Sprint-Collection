@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=F7F1ED&height=300&section=header&text=🐶%20withpuppy%20🐶)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF4785&&fontColor=ffffff&height=300&section=header&text=🐶%20withpuppy%20storybook🐶)
 
 ### 🐕 Project : 2021.11.22 ~ 2021.12.22
 
@@ -18,4 +18,4 @@
 * [`withpuppy wiki`](https://github.com/codestates/withpuppy/wiki)
 
 <br><br>
-![header](https://capsule-render.vercel.app/api?type=wave&color=F7F1ED&height=300&section=footer&text=Thank%20you%20for%20Reading!)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF4785&fontColor=ffffff&height=300&section=footer&text=Thank%20you%20for%20Reading!)
