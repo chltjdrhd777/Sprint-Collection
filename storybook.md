@@ -10,8 +10,7 @@
  
 
 ### 🦮 Index
-![Uploading Withpuppy Storybook-Map 1.png…]()
-//<img src="" width="" height=""/>
+<img src="" width="" height=""/>
 
 
 ### 🐕‍🦺 Wanna see more about withpuppy project ? 
