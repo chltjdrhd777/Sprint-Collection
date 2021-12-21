@@ -75,7 +75,7 @@
 
 <div class="box">
 <details>
-<summary>1. 회원 가입</summary>
+<summary>1. Sign Up</summary>
 <div markdown="1">
 <img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8.gif"/>
 </div>
@@ -84,7 +84,7 @@
     
 <div class="box">
 <details>
-<summary>2. 구글 로그인</summary>
+<summary>2. Google Login</summary>
 <div markdown="1">
 <img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%80%E1%85%AE%E1%84%80%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB.gif" />
 </div>
@@ -93,7 +93,7 @@
 
 <div class="box">
 <details>
-<summary>3. 카카오 로그인</summary>
+<summary>3. Kakao Login</summary>
 <div markdown="1">
 <img src="https://cdn.discordapp.com/attachments/909629390248374305/922392455872147496/939acd1eb0e4b49c.gif" />
 </div>
@@ -102,7 +102,7 @@
 
 <div class="box">
 <details>
-<summary>4. 이메일로 로그인</summary>
+<summary>4. Email Login</summary>
 <div markdown="1">
 <img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A9%20%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5.gif"/>
 </div>
@@ -111,7 +111,7 @@
 
 <div class="box">
 <details>
-<summary>5. 로그인 반응형</summary>
+<summary>5. Login Responsive</summary>
 <div markdown="1">
 <img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8E%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A7%E1%86%BC.gif"/>
 </div>
@@ -120,9 +120,9 @@
 
 <div class="box">
 <details>
-<summary>6. 로그인 실패</summary>
+<summary>6. Login Failed</summary>
 <div markdown="1">
-<img src=""/>
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%91%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B5%20%E1%84%83%E1%85%A1%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%BB%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A1%E1%86%AD%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%84%E1%85%A2.gif"/>
 </div>
 </details>
 </div>
@@ -249,33 +249,27 @@
 
 <div class="box">
 <details>
-<summary>1. </summary>
+<summary>1. Mypage Loding</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%85%E1%85%A9%20%E1%84%8B%E1%85%B5%E1%84%83%E1%85%A9%E1%86%BC.gif" />
+</div>
+</details>
+</div>
+ 
+<div class="box">
+<details>
+<summary>2. Mypage Responsive</summary>
+<div markdown="1">
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A7%E1%86%BC.gif" />
 </div>
 </details>
 </div>
     
 <div class="box">
 <details>
-<summary>2. </summary>
+<summary>3. Profile Image</summary>
 <div markdown="1">
-
-    &nbsp;
-
-</div>
-</details>
-</div>
-    
-<div class="box">
-<details>
-<summary>3. </summary>
-<div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.gif" />
 </div>
 </details>
 </div>
@@ -283,44 +277,36 @@
     
 <div class="box">
 <details>
-<summary>4. </summary>
+<summary>4. Upload Failed</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%80%E1%85%A1%20%E1%84%82%E1%85%A5%E1%84%86%E1%85%AE%20%E1%84%8F%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%B5.gif" />
 </div>
 </details>
 </div>
 
 <div class="box">
 <details>
-<summary>5. </summary>
+<summary>5. Mypage Edit</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC.gif" />
 </div>
 </details>
 </div>
 
 <div class="box">
 <details>
-<summary>6. </summary>
+<summary>6. Mypage Pinpointer dropdown</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%91%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A9%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%20%E1%84%83%E1%85%B3%E1%84%85%E1%85%A1%E1%86%B8%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB.gif"/>
 </div>
 </details>
 </div>
     
 <div class="box">
 <details>
-<summary>7. </summary>
+<summary>7. Mypage Pinpointer Chating</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%8E%E1%85%A2%E1%84%90%E1%85%B5%E1%86%BC%E1%84%8E%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3.gif" />
 </div>
 </details>
 </div>
