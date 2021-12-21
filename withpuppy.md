@@ -68,10 +68,6 @@
 
 <br>
 
-<style type='text/css'>
-  [class*="box"] { display: flex; width: 20%; height: 50px; margin-left: 10px; }
-</style>
-
 <details>
 <summary><b>Home Page (Landing Page)</b></summary>
 <div markdown="1">
