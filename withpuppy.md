@@ -81,9 +81,7 @@
 <details>
 <summary>1. 회원 가입</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8.gif"/>
 </div>
 </details>
 </div>
@@ -94,7 +92,7 @@
 <details>
 <summary>2. 구글 로그인</summary>
 <div markdown="1">
-<img src="https://cdn.discordapp.com/attachments/909629390248374305/922392455104577556/4a0596537a72f96a.gif" />
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%80%E1%85%AE%E1%84%80%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB.gif" />
 </div>
 </details>
 </div>
@@ -116,9 +114,7 @@
 <details>
 <summary>4. 이메일로 로그인</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A9%20%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5.gif"/>
 </div>
 </details>
 </div>
@@ -129,9 +125,7 @@
 <details>
 <summary>5. 로그인 반응형</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8E%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A7%E1%86%BC.gif"/>
 </div>
 </details>
 </div>
@@ -142,9 +136,7 @@
 <details>
 <summary>6. 로그인 실패</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src=""/>
 </div>
 </details>
 </div>
@@ -163,7 +155,7 @@
 </div>
 </details>
 
-<br><br>
+<br>
 
 <details>
 <summary><b>Map Page</b></summary>
