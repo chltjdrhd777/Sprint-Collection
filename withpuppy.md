@@ -195,33 +195,27 @@ https://dmu8og75yrjcf.cloudfront.net/
 
 <div class="box">
 <details>
-<summary>6. </summary>
+<summary>6. Map Like</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/like%20%E1%84%82%E1%85%AE%E1%84%85%E1%85%B3%E1%84%80%E1%85%B5.gif" />
 </div>
 </details>
 </div>
     
 <div class="box">
 <details>
-<summary>7. </summary>
+<summary>7. Map Realtime Update</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3.gif" />
 </div>
 </details>
 </div>
     
 <div class="box">
 <details>
-<summary>8. </summary>
+<summary>8. Map Realtime Check</summary>
 <div markdown="1">
-
-    &nbsp;
-
+<img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%20%E1%84%8E%E1%85%A6%E1%84%8F%E1%85%B3.gif" />
 </div>
 </details>
 </div>
