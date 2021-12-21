@@ -94,7 +94,7 @@
 <details>
 <summary>2. 구글 로그인</summary>
 <div markdown="1">
-<img src="https://cdn.discordapp.com/attachments/909629390248374305/922392455104577556/4a0596537a72f96a.gif"/>
+<img src="https://cdn.discordapp.com/attachments/909629390248374305/922392455104577556/4a0596537a72f96a.gif" />
 </div>
 </details>
 </div>
