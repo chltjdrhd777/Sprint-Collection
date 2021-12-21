@@ -129,7 +129,7 @@
 
 <div class="box">
 <details>
-<summary>7. 로그 아웃</summary>
+<summary>7. Log Out</summary>
 <div markdown="1">
 <img src="https://cdn.discordapp.com/attachments/909629390248374305/922392749867687966/79d1a5248d5d0a9b.gif" />
 </div>
@@ -307,17 +307,6 @@
 <summary>7. Mypage Pinpointer Chating</summary>
 <div markdown="1">
 <img src="https://github.com/chltjdrhd777/chltjdrhd777-final-prototype-imgs/blob/main/gif/%E1%84%8E%E1%85%A2%E1%84%90%E1%85%B5%E1%86%BC%E1%84%8E%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3.gif" />
-</div>
-</details>
-</div>
-    
-<div class="box">
-<details>
-<summary>8. </summary>
-<div markdown="1">
-
-    &nbsp;
-
 </div>
 </details>
 </div>
