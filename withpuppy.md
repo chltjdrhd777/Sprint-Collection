@@ -169,7 +169,7 @@ https://dmu8og75yrjcf.cloudfront.net/
 <details>
 <summary>3. enroll pin</summary>
 <div markdown="1">
-
+<img src="https://github.com/heewonkim-dev/gif/blob/main/ezgif.com-gif-maker.gif"/>
 </div>
 </details>
 </div>
